@@ -1,0 +1,14 @@
+VENTAS DE CERVEZA - APK ANDROID
+
+Este ZIP es el PROYECTO para generar el APK, NO es todavía el APK compilado.
+
+1. Crea un repositorio PRIVADO vacío en GitHub.
+2. Sube los archivos de este ZIP conservando las carpetas (incluida .github/workflows/apk.yml).
+3. En GitHub abre Actions > Crear APK Android > Run workflow.
+4. Cuando termine, descarga el artifact VentasCerveza-APK.
+5. Descomprime ese artifact y pasa app-debug.apk a tu celular para instalarlo.
+
+DATOS: las ventas se guardan LOCALMENTE en la app. No se sincronizan con la PC.
+Haz copias frecuentes usando Respaldo JSON. No borres datos de la app ni la desinstales sin respaldo.
+PDF: pulsa Guardar PDF / Imprimir y elige Guardar como PDF en el diálogo de Android.
+La app requiere pruebas en el celular antes de uso comercial.
